@@ -1,0 +1,15 @@
+h1{
+    color: red; /*Standard named colors in CSS*/
+}
+
+h2{
+    color: #FF43A2; /*Hexidecial styled syntax colors in CSS  -- two digits for red,green,blue #__|__|__*/
+}
+
+h3{
+    color: rgb(0, 255, 0); /*rgb styled syntax colors in CSS*/
+}
+
+h4{
+    color: rgba(11, 99, 150, .5); /*rgba - a stands for alpha syntax colors in CSS -- range is 0 to 1 decimal values approaches 1*/
+}
