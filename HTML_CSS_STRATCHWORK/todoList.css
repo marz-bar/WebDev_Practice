@@ -1,0 +1,16 @@
+body{
+    background: purple;
+}
+
+li{
+    color: orange;
+}
+
+#special{
+    color: red;
+    background: black;
+}
+
+.checked{
+    text-decoration: line-through;
+}

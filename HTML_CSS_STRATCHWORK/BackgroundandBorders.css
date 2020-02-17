@@ -1,0 +1,14 @@
+/* body{
+    background-image: url(https://i.imgur.com/vf3IjDc.jpeg);
+    background-repeat: no-repeat;
+    background-size:unset;
+} */
+
+
+h1{
+    /* border-color: coral;
+    border-width: thick;
+    border-style: dotted; */
+
+    border: 20px dotted coral;
+}
