@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 html {
     background-color: black;
     color: white;
 }
+=======
+>>>>>>> 6aea24f4aa30d4bc07a02438eaecd74a678c14ef
 h1{
     text-align:center;
 }
@@ -28,12 +31,22 @@ top and bottom - middle row
 */
 
 .MidElement{
+<<<<<<< HEAD
 border-left: 2px solid white;
 border-right: 2px solid white;
+=======
+border-left: 2px solid black;
+border-right: 2px solid black;
+>>>>>>> 6aea24f4aa30d4bc07a02438eaecd74a678c14ef
 
 }
 
 .MidRow{
+<<<<<<< HEAD
 border-top: 2px solid white;
 border-bottom: 2px solid white;
+=======
+border-top: 2px solid black;
+border-bottom: 2px solid black;
+>>>>>>> 6aea24f4aa30d4bc07a02438eaecd74a678c14ef
 }
